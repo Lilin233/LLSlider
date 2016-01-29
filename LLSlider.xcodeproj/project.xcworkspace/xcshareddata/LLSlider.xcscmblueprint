@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B942E23FC45FA7401BA7FAAD5FEB356DD6648675",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B942E23FC45FA7401BA7FAAD5FEB356DD6648675" : 0,
+    "C59ADA7C0EB15EC7D021054981CB6B38F29C937C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6F6502FA-D1E5-4019-B4C7-807EB4E0B3A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B942E23FC45FA7401BA7FAAD5FEB356DD6648675" : "LLSlider\/",
+    "C59ADA7C0EB15EC7D021054981CB6B38F29C937C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LLSlider",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LLSlider.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Lilin233\/LLSlider.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B942E23FC45FA7401BA7FAAD5FEB356DD6648675"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Lilin233\/iOS9NSUserActivity.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C59ADA7C0EB15EC7D021054981CB6B38F29C937C"
+    }
+  ]
+}
