@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA63CAE51C5B14FE0008E4F8 /* LLSlider.gif in Resources */ = {isa = PBXBuildFile; fileRef = FA63CAE41C5B14FE0008E4F8 /* LLSlider.gif */; };
 		FA6F44331C5A14420042AD81 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6F44321C5A14420042AD81 /* AppDelegate.swift */; };
 		FA6F44351C5A14420042AD81 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6F44341C5A14420042AD81 /* ViewController.swift */; };
 		FA6F44381C5A14420042AD81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6F44361C5A14420042AD81 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA63CAE41C5B14FE0008E4F8 /* LLSlider.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = LLSlider.gif; sourceTree = "<group>"; };
 		FA6F442F1C5A14420042AD81 /* LLSlider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LLSlider.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA6F44321C5A14420042AD81 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FA6F44341C5A14420042AD81 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				FA6F444B1C5A15960042AD81 /* Class */,
 				FA6F44321C5A14420042AD81 /* AppDelegate.swift */,
 				FA6F44341C5A14420042AD81 /* ViewController.swift */,
+				FA63CAE41C5B14FE0008E4F8 /* LLSlider.gif */,
 				FA6F44361C5A14420042AD81 /* Main.storyboard */,
 				FA6F44391C5A14420042AD81 /* Assets.xcassets */,
 				FA6F44441C5A14620042AD81 /* Images.xcassets */,
@@ -156,6 +159,7 @@
 				FA6F443D1C5A14420042AD81 /* LaunchScreen.storyboard in Resources */,
 				FA6F44451C5A14620042AD81 /* Images.xcassets in Resources */,
 				FA6F443A1C5A14420042AD81 /* Assets.xcassets in Resources */,
+				FA63CAE51C5B14FE0008E4F8 /* LLSlider.gif in Resources */,
 				FA6F44381C5A14420042AD81 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -322,6 +326,7 @@
 				FA6F44431C5A14430042AD81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
